@@ -1,0 +1,524 @@
+[
+  {
+    "id": "beras",
+    "nama": "Beras Putih Pulen",
+    "harga": 3000,
+    "satuan": "porsi (100g)",
+    "kalori": 204,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/beras.jpg"
+  },
+  {
+    "id": "mie-instan",
+    "nama": "Mie Instan Kering",
+    "harga": 3500,
+    "satuan": "bungkus",
+    "kalori": 380,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/mie-instan.jpg"
+  },
+  {
+    "id": "kentang",
+    "nama": "Kentang Segar Mentah",
+    "harga": 3500,
+    "satuan": "buah besar",
+    "kalori": 160,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/kentang.jpg"
+  },
+  {
+    "id": "ubi",
+    "nama": "Ubi Jalar Manis Mentah",
+    "harga": 2500,
+    "satuan": "buah sedang",
+    "kalori": 140,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/ubi.jpg"
+  },
+  {
+    "id": "singkong",
+    "nama": "Singkong Mentah Kupas",
+    "harga": 2500,
+    "satuan": "potong (150g)",
+    "kalori": 150,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/singkong.jpg"
+  },
+  {
+    "id": "tepung",
+    "nama": "Tepung Terigu Serbaguna",
+    "harga": 2000,
+    "satuan": "4 sdm (50g)",
+    "kalori": 140,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/tepung.jpg"
+  },
+  {
+    "id": "jagung",
+    "nama": "Jagung Manis Mentah",
+    "harga": 3000,
+    "satuan": "tongkol",
+    "kalori": 130,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/jagung.jpg"
+  },
+  {
+    "id": "bihun",
+    "nama": "Bihun Jagung Kering",
+    "harga": 3000,
+    "satuan": "keping (70g)",
+    "kalori": 240,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/bihun.jpg"
+  },
+  {
+    "id": "makaroni",
+    "nama": "Makaroni Pipa Kering",
+    "harga": 3000,
+    "satuan": "genggam (75g)",
+    "kalori": 260,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/makaroni.jpg"
+  },
+  {
+    "id": "pisang",
+    "nama": "Pisang Kepok Segar",
+    "harga": 3000,
+    "satuan": "2 buah",
+    "kalori": 180,
+    "kategori": "karbo",
+    "gambar": "/images/bahan/pisang.jpg"
+  },
+  {
+    "id": "telur",
+    "nama": "Telur Ayam Mentah",
+    "harga": 2500,
+    "satuan": "butir",
+    "kalori": 74,
+    "kategori": "protein",
+    "gambar": "/images/bahan/telur.jpg"
+  },
+  {
+    "id": "ayam",
+    "nama": "Daging Ayam Fillet Mentah",
+    "harga": 8000,
+    "satuan": "potong (100g)",
+    "kalori": 165,
+    "kategori": "protein",
+    "gambar": "/images/bahan/ayam.jpg"
+  },
+  {
+    "id": "daging-sapi",
+    "nama": "Daging Sapi Segar Mentah",
+    "harga": 14000,
+    "satuan": "porsi (100g)",
+    "kalori": 250,
+    "kategori": "protein",
+    "gambar": "/images/bahan/daging-sapi.jpg"
+  },
+  {
+    "id": "ikan",
+    "nama": "Ikan Segar Mentah",
+    "harga": 8000,
+    "satuan": "ekor sedang",
+    "kalori": 150,
+    "kategori": "protein",
+    "gambar": "/images/bahan/ikan.jpg"
+  },
+  {
+    "id": "udang",
+    "nama": "Udang Segar Mentah",
+    "harga": 9000,
+    "satuan": "porsi (80g)",
+    "kalori": 110,
+    "kategori": "protein",
+    "gambar": "/images/bahan/udang.jpg"
+  },
+  {
+    "id": "cumi",
+    "nama": "Cumi-cumi Segar Mentah",
+    "harga": 9000,
+    "satuan": "ekor sedang",
+    "kalori": 95,
+    "kategori": "protein",
+    "gambar": "/images/bahan/cumi.jpg"
+  },
+  {
+    "id": "tahu",
+    "nama": "Tahu Putih Segar",
+    "harga": 2000,
+    "satuan": "potong",
+    "kalori": 80,
+    "kategori": "protein",
+    "gambar": "/images/bahan/tahu.jpg"
+  },
+  {
+    "id": "tempe",
+    "nama": "Tempe Kedelai Mentah",
+    "harga": 3000,
+    "satuan": "papan sedang",
+    "kalori": 160,
+    "kategori": "protein",
+    "gambar": "/images/bahan/tempe.jpg"
+  },
+  {
+    "id": "kerang",
+    "nama": "Kerang Hijau Segar Mentah",
+    "harga": 7000,
+    "satuan": "porsi (150g)",
+    "kalori": 115,
+    "kategori": "protein",
+    "gambar": "/images/bahan/kerang.jpg"
+  },
+  {
+    "id": "kepiting",
+    "nama": "Kepiting Bakau Mentah",
+    "harga": 18000,
+    "satuan": "ekor sedang",
+    "kalori": 140,
+    "kategori": "protein",
+    "gambar": "/images/bahan/kepiting.jpg"
+  },
+  {
+    "id": "ikan-teri",
+    "nama": "Ikan Teri Kering Mentah",
+    "harga": 4000,
+    "satuan": "genggam (40g)",
+    "kalori": 95,
+    "kategori": "protein",
+    "gambar": "/images/bahan/ikan-teri.jpg"
+  },
+  {
+    "id": "sosis",
+    "nama": "Sosis Ayam/Sapi Mentah",
+    "harga": 3500,
+    "satuan": "2 batang",
+    "kalori": 170,
+    "kategori": "protein",
+    "gambar": "/images/bahan/sosis.jpg"
+  },
+  {
+    "id": "kacang-tanah",
+    "nama": "Kacang Tanah Kupas Mentah",
+    "harga": 3000,
+    "satuan": "genggam (50g)",
+    "kalori": 280,
+    "kategori": "protein",
+    "gambar": "/images/bahan/kacang-tanah.jpg"
+  },
+  {
+    "id": "kacang-hijau",
+    "nama": "Kacang Hijau Biji Mentah",
+    "harga": 3000,
+    "satuan": "genggam (75g)",
+    "kalori": 240,
+    "kategori": "protein",
+    "gambar": "/images/bahan/kacang-hijau.jpg"
+  },
+  {
+    "id": "kangkung",
+    "nama": "Kangkung Segar Seikat",
+    "harga": 2500,
+    "satuan": "ikat",
+    "kalori": 28,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/kangkung.jpg"
+  },
+  {
+    "id": "bayam",
+    "nama": "Bayam Hijau Segar",
+    "harga": 2500,
+    "satuan": "ikat",
+    "kalori": 23,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/bayam.jpg"
+  },
+  {
+    "id": "wortel",
+    "nama": "Wortel Segar Mentah",
+    "harga": 2000,
+    "satuan": "buah sedang",
+    "kalori": 25,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/wortel.jpg"
+  },
+  {
+    "id": "tomat",
+    "nama": "Tomat Merah Segar",
+    "harga": 2000,
+    "satuan": "2 buah",
+    "kalori": 22,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/tomat.jpg"
+  },
+  {
+    "id": "timun",
+    "nama": "Timun Lalap Segar",
+    "harga": 2000,
+    "satuan": "buah",
+    "kalori": 18,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/timun.jpg"
+  },
+  {
+    "id": "terong",
+    "nama": "Terong Ungu Segar",
+    "harga": 3000,
+    "satuan": "buah besar",
+    "kalori": 35,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/terong.jpg"
+  },
+  {
+    "id": "kol",
+    "nama": "Kol / Kubis Putih Segar",
+    "harga": 2000,
+    "satuan": "potong (100g)",
+    "kalori": 25,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/kol.jpg"
+  },
+  {
+    "id": "sawi-hijau",
+    "nama": "Sawi Hijau Caisim Segar",
+    "harga": 2500,
+    "satuan": "ikat",
+    "kalori": 22,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/sawi-hijau.jpg"
+  },
+  {
+    "id": "brokoli",
+    "nama": "Brokoli Hijau Segar",
+    "harga": 4500,
+    "satuan": "bonggol kecil",
+    "kalori": 34,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/brokoli.jpg"
+  },
+  {
+    "id": "buncis",
+    "nama": "Buncis Muda Segar",
+    "harga": 2500,
+    "satuan": "genggam (100g)",
+    "kalori": 31,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/buncis.jpg"
+  },
+  {
+    "id": "tauge",
+    "nama": "Tauge Putih Segar",
+    "harga": 2000,
+    "satuan": "genggam (100g)",
+    "kalori": 30,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/tauge.jpg"
+  },
+  {
+    "id": "jamur-tiram",
+    "nama": "Jamur Tiram Putih Segar",
+    "harga": 4000,
+    "satuan": "pak kecil (100g)",
+    "kalori": 33,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/jamur-tiram.jpg"
+  },
+  {
+    "id": "labu-siam",
+    "nama": "Labu Siam Segar",
+    "harga": 2500,
+    "satuan": "buah sedang",
+    "kalori": 24,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/labu-siam.jpg"
+  },
+  {
+    "id": "pare",
+    "nama": "Pare Hijau Segar",
+    "harga": 3000,
+    "satuan": "buah sedang",
+    "kalori": 20,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/pare.jpg"
+  },
+  {
+    "id": "daun-bawang",
+    "nama": "Daun Bawang Segar",
+    "harga": 1500,
+    "satuan": "2 batang",
+    "kalori": 12,
+    "kategori": "sayur",
+    "gambar": "/images/bahan/daun-bawang.jpg"
+  },
+  {
+    "id": "bawang",
+    "nama": "Bawang Merah Mentah",
+    "harga": 1500,
+    "satuan": "porsi bumbu",
+    "kalori": 15,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/bawang.jpg"
+  },
+  {
+    "id": "cabai",
+    "nama": "Cabai Rawit Merah",
+    "harga": 1500,
+    "satuan": "porsi bumbu",
+    "kalori": 10,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/cabai.jpg"
+  },
+  {
+    "id": "minyak",
+    "nama": "Minyak Goreng Sawit",
+    "harga": 1500,
+    "satuan": "2 sdm",
+    "kalori": 120,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/minyak.jpg"
+  },
+  {
+    "id": "bawang-putih",
+    "nama": "Bawang Putih Mentah",
+    "harga": 1500,
+    "satuan": "3 siung",
+    "kalori": 14,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/bawang-putih.jpg"
+  },
+  {
+    "id": "kunyit",
+    "nama": "Kunyit Segar Rimpang",
+    "harga": 1000,
+    "satuan": "ruas jari",
+    "kalori": 8,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/kunyit.jpg"
+  },
+  {
+    "id": "serai",
+    "nama": "Batang Serai Dapur Segar",
+    "harga": 1000,
+    "satuan": "2 batang",
+    "kalori": 6,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/serai.jpg"
+  },
+  {
+    "id": "jeruk-nipis",
+    "nama": "Jeruk Nipis Peras Segar",
+    "harga": 1500,
+    "satuan": "buah",
+    "kalori": 10,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/jeruk-nipis.jpg"
+  },
+  {
+    "id": "santan",
+    "nama": "Santan Kelapa Kental",
+    "harga": 3000,
+    "satuan": "porsi (65ml)",
+    "kalori": 150,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/santan.jpg"
+  },
+  {
+    "id": "kecap-manis",
+    "nama": "Kecap Manis Kedelai",
+    "harga": 1500,
+    "satuan": "2 sdm",
+    "kalori": 60,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/kecap-manis.jpg"
+  },
+  {
+    "id": "keju",
+    "nama": "Keju Cheddar Blok",
+    "harga": 4000,
+    "satuan": "porsi parut (30g)",
+    "kalori": 120,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/keju.jpg"
+  },
+  {
+    "id": "gula-merah",
+    "nama": "Gula Merah Aren Cetak",
+    "harga": 2000,
+    "satuan": "keping kecil",
+    "kalori": 90,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/gula-merah.jpg"
+  },
+  {
+    "id": "garam",
+    "nama": "Garam Dapur Halus",
+    "harga": 500,
+    "satuan": "1/2 sdt",
+    "kalori": 0,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/garam.jpg"
+  },
+  {
+    "id": "micin",
+    "nama": "Micin / MSG Penyedap",
+    "harga": 500,
+    "satuan": "1/4 sdt",
+    "kalori": 0,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/micin.jpg"
+  },
+  {
+    "id": "kaldu-bubuk",
+    "nama": "Kaldu Bubuk Gurih",
+    "harga": 500,
+    "satuan": "1/2 sdt",
+    "kalori": 8,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/kaldu-bubuk.jpg"
+  },
+  {
+    "id": "lada-bubuk",
+    "nama": "Merica / Lada Bubuk",
+    "harga": 500,
+    "satuan": "1/4 sdt",
+    "kalori": 4,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/lada-bubuk.jpg"
+  },
+  {
+    "id": "gula-pasir",
+    "nama": "Gula Pasir Putih",
+    "harga": 500,
+    "satuan": "1/2 sdt",
+    "kalori": 20,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/gula-pasir.jpg"
+  },
+  {
+    "id": "saus-tiram",
+    "nama": "Saus Tiram Gurih",
+    "harga": 1500,
+    "satuan": "1 sdm",
+    "kalori": 18,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/saus-tiram.jpg"
+  },
+  {
+    "id": "saus-sambal",
+    "nama": "Saus Sambal Pedas",
+    "harga": 1000,
+    "satuan": "1 sdm",
+    "kalori": 15,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/saus-sambal.jpg"
+  },
+  {
+    "id": "terasi",
+    "nama": "Terasi Udang Bakar",
+    "harga": 1000,
+    "satuan": "1/2 sdt",
+    "kalori": 10,
+    "kategori": "bumbu",
+    "gambar": "/images/bahan/terasi.jpg"
+  }
+]

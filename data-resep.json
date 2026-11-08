@@ -1,0 +1,99 @@
+[
+  {
+    "id": "nasi-goreng-telur",
+    "nama": "Nasi goreng telur",
+    "waktu": 15,
+    "bahan": [
+      { "id": "beras", "jumlah": 1 },
+      { "id": "telur", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "kecap", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Tumis bawang sampai harum.", "Masukkan telur, orak-arik.", "Masukkan nasi dan kecap, aduk sampai rata."]
+  },
+  {
+    "id": "tumis-kangkung",
+    "nama": "Tumis kangkung",
+    "waktu": 10,
+    "bahan": [
+      { "id": "kangkung", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "cabai", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Panaskan minyak, tumis bawang dan cabai.", "Masukkan kangkung, aduk cepat.", "Angkat sebelum layu."]
+  },
+  {
+    "id": "telur-dadar",
+    "nama": "Telur dadar",
+    "waktu": 8,
+    "bahan": [
+      { "id": "telur", "jumlah": 2 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Kocok telur dengan bawang iris.", "Goreng sampai kedua sisi matang."]
+  },
+  {
+    "id": "tempe-orek",
+    "nama": "Tempe orek",
+    "waktu": 15,
+    "bahan": [
+      { "id": "tempe", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "cabai", "jumlah": 1 },
+      { "id": "kecap", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Iris tempe tipis, goreng setengah kering.", "Tumis bawang dan cabai, masukkan tempe.", "Bumbui kecap, aduk sampai meresap."]
+  },
+  {
+    "id": "mie-telur-sayur",
+    "nama": "Mie telur sayur",
+    "waktu": 12,
+    "bahan": [
+      { "id": "mie-instan", "jumlah": 1 },
+      { "id": "telur", "jumlah": 1 },
+      { "id": "wortel", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Rebus mie, tiriskan.", "Tumis bawang, wortel, dan telur.", "Masukkan mie dan bumbu, aduk."]
+  },
+  {
+    "id": "sayur-bayam",
+    "nama": "Sayur bayam bening",
+    "waktu": 12,
+    "bahan": [
+      { "id": "bayam", "jumlah": 1 },
+      { "id": "jagung", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 }
+    ],
+    "langkah": ["Rebus air dengan bawang dan jagung.", "Masukkan bayam, masak sebentar.", "Angkat, beri garam."]
+  },
+  {
+    "id": "ayam-goreng-sederhana",
+    "nama": "Ayam goreng sederhana",
+    "waktu": 25,
+    "bahan": [
+      { "id": "ayam", "jumlah": 1 },
+      { "id": "bawang", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 },
+      { "id": "beras", "jumlah": 1 }
+    ],
+    "langkah": ["Lumuri ayam dengan bawang halus.", "Goreng sampai kecokelatan.", "Sajikan dengan nasi."]
+  },
+  {
+    "id": "tahu-goreng-kecap",
+    "nama": "Tahu goreng kecap",
+    "waktu": 12,
+    "bahan": [
+      { "id": "tahu", "jumlah": 1 },
+      { "id": "kecap", "jumlah": 1 },
+      { "id": "cabai", "jumlah": 1 },
+      { "id": "minyak", "jumlah": 1 }
+    ],
+    "langkah": ["Goreng tahu sampai kulitnya kaku.", "Siram kecap dan cabai iris."]
+  }
+]

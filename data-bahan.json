@@ -1,0 +1,16 @@
+[
+  { "id": "beras", "nama": "Beras / Nasi", "harga": 3000, "satuan": "porsi", "kalori": 204, "kategori": "karbo", "ikon": "🍚" },
+  { "id": "telur", "nama": "Telur ayam", "harga": 2500, "satuan": "butir", "kalori": 74, "kategori": "protein", "ikon": "🥚" },
+  { "id": "tempe", "nama": "Tempe", "harga": 3000, "satuan": "papan kecil", "kalori": 160, "kategori": "protein", "ikon": "🥢" },
+  { "id": "tahu", "nama": "Tahu putih", "harga": 2000, "satuan": "2 potong", "kalori": 80, "kategori": "protein", "ikon": "🧈" },
+  { "id": "ayam", "nama": "Ayam fillet", "harga": 8000, "satuan": "100g", "kalori": 165, "kategori": "protein", "ikon": "🍗" },
+  { "id": "kangkung", "nama": "Kangkung", "harga": 2500, "satuan": "ikat", "kalori": 28, "kategori": "sayur", "ikon": "🥬" },
+  { "id": "bayam", "nama": "Bayam", "harga": 2500, "satuan": "ikat", "kalori": 23, "kategori": "sayur", "ikon": "🍃" },
+  { "id": "wortel", "nama": "Wortel", "harga": 2000, "satuan": "1 buah", "kalori": 25, "kategori": "sayur", "ikon": "🥕" },
+  { "id": "jagung", "nama": "Jagung manis", "harga": 3000, "satuan": "1 buah", "kalori": 90, "kategori": "sayur", "ikon": "🌽" },
+  { "id": "mie-instan", "nama": "Mie instan", "harga": 3500, "satuan": "bungkus", "kalori": 380, "kategori": "karbo", "ikon": "🍜" },
+  { "id": "bawang", "nama": "Bawang merah & putih", "harga": 1500, "satuan": "porsi bumbu", "kalori": 15, "kategori": "bumbu", "ikon": "🧄" },
+  { "id": "cabai", "nama": "Cabai rawit", "harga": 1500, "satuan": "porsi bumbu", "kalori": 10, "kategori": "bumbu", "ikon": "🌶️" },
+  { "id": "kecap", "nama": "Kecap manis", "harga": 1000, "satuan": "sachet", "kalori": 45, "kategori": "bumbu", "ikon": "🍶" },
+  { "id": "minyak", "nama": "Minyak goreng", "harga": 1500, "satuan": "2 sdm", "kalori": 120, "kategori": "bumbu", "ikon": "🫗" }
+]

@@ -1,0 +1,4410 @@
+[
+  {
+    "id": "nasi-putih-pulen",
+    "nama": "Nasi Putih Pulen Hangat",
+    "deskripsi": "Nasi putih pulen hangat yang dimasak sempurna dari beras pilihan sebagai sumber energi utama.",
+    "porsi": "1 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/nasi-putih-pulen.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci beras putih di bawah air mengalir sebanyak 2 kali hingga air bilasan cukup bening.",
+      "Masukkan beras ke panci atau penanak nasi dengan takaran air satu ruas jari di atas permukaan beras.",
+      "Masak hingga air terserap habis dan nasi matang pulen merata.",
+      "Aduk nasi perlahan agar uap panas merata, lalu sajikan hangat."
+    ]
+  },
+  {
+    "id": "ubi-kukus-manis",
+    "nama": "Ubi Jalar Manis Kukus Legit",
+    "deskripsi": "Olahan ubi jalar kukus alami yang lembut, manis legit, dan mengenyangkan tanpa minyak.",
+    "porsi": "1-2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/ubi-kukus-hangat.jpg",
+    "bahan": [
+      {
+        "id": "ubi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Sikat dan cuci bersih kulit ubi jalar di bawah air mengalir hingga bebas tanah.",
+      "Panaskan kukusan hingga airnya mendidih dan beruap banyak.",
+      "Masukkan ubi jalar ke dalam kukusan, tutup rapat dan kukus selama 15-20 menit hingga empuk saat ditusuk garpu.",
+      "Angkat dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "singkong-rebus-empuk",
+    "nama": "Singkong Rebus Pulen Empuk",
+    "deskripsi": "Singkong kupas direbus perlahan hingga empuk merekah, cocok untuk sarapan atau teman santai.",
+    "porsi": "2 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/singkong-rebus-pulen.jpg",
+    "bahan": [
+      {
+        "id": "singkong",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih potongan singkong kupas dan belah memanjang buang sumbu tengahnya.",
+      "Masukkan singkong ke dalam panci berisi air hingga terendam seluruhnya.",
+      "Rebus dengan api sedang selama 20-25 menit sampai singkong empuk pulen dan mulai merekah. Beri sedikit garam pada air rebusan agar rasanya gurih meresap.",
+      "Tiriskan airnya dan sajikan selagi hangat."
+    ]
+  },
+  {
+    "id": "kentang-rebus-gurih",
+    "nama": "Kentang Rebus Hangat Mengenyangkan",
+    "deskripsi": "Potongan kentang segar direbus empuk lembut sebagai sumber karbohidrat sehat rendah lemak.",
+    "porsi": "1-2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/kentang-rebus.jpg",
+    "bahan": [
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas kulit kentang, cuci bersih lalu potong-potong ukuran sedang agar cepat matang.",
+      "Didihkan air secukupnya di dalam panci dengan sejumput garam dapur.",
+      "Rebus potongan kentang selama 15 menit hingga teksturnya empuk saat ditusuk.",
+      "Angkat, tiriskan airnya, dan hidangkan hangat."
+    ]
+  },
+  {
+    "id": "telur-rebus-matang",
+    "nama": "Telur Ayam Rebus Matang Sempurna",
+    "deskripsi": "Lauk tinggi protein paling praktis yang bisa disiapkan kapan saja tanpa minyak goreng.",
+    "porsi": "1 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/telur-rebus.jpg",
+    "bahan": [
+      {
+        "id": "telur",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih cangkang telur ayam, lalu masukkan ke panci berisi air suhu ruang.",
+      "Nyalakan api sedang dan rebus selama 8-10 menit sejak air mulai mendidih.",
+      "Angkat telur dan langsung rendam di air dingin agar cangkangnya mudah dikupas mulus.",
+      "Kupas cangkang, belah dua, dan siap disajikan."
+    ]
+  },
+  {
+    "id": "mie-kuah-hangat-praktis",
+    "nama": "Mie Instan Kuah Hangat Praktis",
+    "deskripsi": "Semangkuk mie instan kuah kaldu gurih hangat yang siap mengganjal perut dalam hitungan menit.",
+    "porsi": "1 porsi",
+    "waktu": 5,
+    "waktuMasak": "5 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/mie-kuah-warkop.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Didihkan 350 ml air bersih di dalam panci kecil.",
+      "Masukkan kepingan mie instan, rebus selama 3 menit hingga kenyal matang.",
+      "Tuangkan bumbu bawaan mie ke dalam mangkuk saji.",
+      "Tuang mie beserta kuah panas ke mangkuk, aduk rata dan nikmati segera."
+    ]
+  },
+  {
+    "id": "mie-kuah-telur-rebus",
+    "nama": "Mie Instan Kuah Telur Lembut",
+    "deskripsi": "Perpaduan mie kuah hangat dengan sebutir telur utuh yang dimasak lembut langsung di kuahnya.",
+    "porsi": "1 porsi",
+    "waktu": 7,
+    "waktuMasak": "7 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/mie-kuah-telur.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Didihkan air di panci, kecilkan sedikit api lalu pecahkan telur ayam perlahan agar tetap utuh.",
+      "Masukkan mie instan di samping telur, masak 3 menit sampai mie kenyal dan putih telur mengikat.",
+      "Siapkan bumbu mie di mangkuk saji.",
+      "Tuang mie, kuah kaldu, dan telur hangat ke mangkuk lalu sajikan."
+    ]
+  },
+  {
+    "id": "telur-ceplok-mata-sapi",
+    "nama": "Telur Ceplok Mata Sapi Pinggir Crispy",
+    "deskripsi": "Telur mata sapi klasik dengan pinggiran putih telur renyah berenda dan kuning telur gurih.",
+    "porsi": "1 porsi",
+    "waktu": 5,
+    "waktuMasak": "5 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/telur-ceplok.jpg",
+    "bahan": [
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Panaskan minyak goreng secukupnya di wajan datar hingga benar-benar panas.",
+      "Pecahkan telur ayam perlahan tepat di tengah wajan.",
+      "Siram-siram sedikit minyak panas ke bagian putih telur hingga pinggirannya garing kecokelatan. Taburi garam dan lada bubuk secukupnya selagi hangat agar makin gurih.",
+      "Angkat dengan spatula dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "kentang-goreng-stik",
+    "nama": "Kentang Goreng Stik Renyah Gurih",
+    "deskripsi": "Potongan stik kentang segar yang digoreng garing keemasan di luar dan lembut di dalam.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/kentang-goreng-renyah.jpg",
+    "bahan": [
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas kentang segar, potong memanjang seukuran jari lalu rendam air 5 menit agar pati berkurang.",
+      "Tiriskan dan keringkan potongan kentang hingga tidak basah.",
+      "Panaskan minyak cukup banyak, goreng kentang dengan api sedang sampai kuning keemasan. Taburi kaldu bubuk secukupnya selagi hangat agar makin gurih.",
+      "Angkat, tiriskan minyaknya, taburi sejumput garam dan sajikan renyah."
+    ]
+  },
+  {
+    "id": "kentang-goreng-telur-ceplok",
+    "nama": "Kentang Goreng & Telur Ceplok Sarapan",
+    "deskripsi": "Sepiring menu sarapan mengenyangkan kombinasi stik kentang goreng gurih dengan telur mata sapi.",
+    "porsi": "1 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/resep/kentang-telur-ceplok.jpg",
+    "bahan": [
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-sambal",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong kentang bentuk stik memanjang, cuci bersih lalu tiriskan kering.",
+      "Goreng stik kentang dalam minyak panas sampai matang garing keemasan, angkat ke piring.",
+      "Kurangi minyak di wajan, ceplok sebutir telur ayam hingga matang sesuai selera. Taburi garam, lada bubuk, dan saus sambal secukupnya selagi hangat agar makin gurih.",
+      "Tata telur ceplok hangat berdampingan dengan kentang goreng di piring saji."
+    ]
+  },
+  {
+    "id": "tahu-goreng-gurih",
+    "nama": "Tahu Putih Goreng Gurih Berkaca",
+    "deskripsi": "Potongan tahu putih segar digoreng hingga berkulit garing keemasan namun tetap lembut di dalam.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/tahu-goreng-gurih.jpg",
+    "bahan": [
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong tahu putih segar ukuran kotak sedang, rendam sebentar dengan air garam.",
+      "Panaskan minyak goreng cukup banyak di wajan dengan api sedang-besar.",
+      "Masukkan potongan tahu, biarkan bagian bawah berkulit kokoh sebelum dibalik. Bumbui dengan kaldu bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Goreng hingga kuning keemasan merata, tiriskan dan hidangkan hangat."
+    ]
+  },
+  {
+    "id": "tempe-goreng-renyah",
+    "nama": "Tempe Goreng Iris Garing Gurih",
+    "deskripsi": "Irisan tempe kedelai segar digoreng renyah keemasan untuk lauk pendamping serbaguna.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/tempe-goreng-renyah.jpg",
+    "bahan": [
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Iris papan tempe setebal setengah sentimeter dan kerat-kerat permukaannya.",
+      "Celupkan sebentar ke larutan air garam agar rasa gurih meresap.",
+      "Goreng dalam minyak panas api sedang hingga kedua sisinya cokelat keemasan garing. Bumbui dengan kaldu bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tiriskan dan sajikan selagi hangat."
+    ]
+  },
+  {
+    "id": "ikan-goreng-garing",
+    "nama": "Ikan Segar Goreng Garing Renyah",
+    "deskripsi": "Ikan utuh segar digoreng kering keemasan dengan sirip renyah dan daging putih gurih.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/resep/ikan-goreng-garing.jpg",
+    "bahan": [
+      {
+        "id": "ikan",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan sisik dan isi perut ikan segar, cuci bersih lalu kerat kedua sisi badannya.",
+      "Baluri permukaan ikan dengan sedikit garam agar gurih dan tidak lengket.",
+      "Panaskan minyak hingga benar-benar panas, goreng ikan tanpa dibolak-balik sampai sisi bawah kering. Bumbui dengan kaldu bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Balik sekali hingga kedua sisi matang garing kecokelatan, angkat dan tiriskan."
+    ]
+  },
+  {
+    "id": "sayur-bening-bayam-segar",
+    "nama": "Sayur Bening Bayam Bawang Segar",
+    "deskripsi": "Kuah sayur bening rumahan yang ringan, segar, dan menyehatkan dengan aroma bawang merah iris.",
+    "porsi": "2 porsi",
+    "waktu": 8,
+    "waktuMasak": "8 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/sayur-bening-bayam.jpg",
+    "bahan": [
+      {
+        "id": "bayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Petik daun dan batang muda bayam hijau, cuci bersih di air mengalir.",
+      "Didihkan 400 ml air di panci bersama irisan bawang merah hingga harum.",
+      "Masukkan daun bayam, aduk rata dan masak cukup 1-2 menit saja agar warnanya tetap hijau cerah. Bumbui kuah dengan garam, kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Matikan api dan sajikan langsung selagi hangat."
+    ]
+  },
+  {
+    "id": "sambal-bawang-korek",
+    "nama": "Sambal Bawang Korek Minyak Panas",
+    "deskripsi": "Sambal ulek kasar cabai rawit merah dan bawang yang disiram minyak mendidih super wangi.",
+    "porsi": "2-3 porsi",
+    "waktu": 5,
+    "waktuMasak": "5 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/sambal-bawang-rawit.jpg",
+    "bahan": [
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih cabai rawit merah dan kupas bawang merah segar.",
+      "Ulek kasar cabai rawit dan bawang merah di atas cobek bersama sedikit garam.",
+      "Panaskan 2 sendok makan minyak goreng hingga benar-benar panas berasap tipis. Tambahkan micin (penyedap rasa) dan sedikit gula pasir secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Siramkan minyak panas ke atas ulekan sambal hingga mendesis harum, aduk rata dan siap disantap."
+    ]
+  },
+  {
+    "id": "telur-balado-pedas",
+    "nama": "Telur Rebus Balado Cabai Merah",
+    "deskripsi": "Telur rebus goreng berkulit keriting dibalut tumisan sambal balado bawang cabai yang meresap.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/resep/telur-balado-pedas.jpg",
+    "bahan": [
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus telur hingga matang, kupas kulitnya lalu goreng sebentar hingga permukaannya berkulit keemasan.",
+      "Ulek kasar cabai merah dan bawang merah.",
+      "Tumis bumbu ulek dengan minyak sisa menggoreng telur hingga matang merah berminyak. Tambahkan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Masukkan telur goreng, aduk rata hingga sambal balado menyelimuti telur."
+    ]
+  },
+  {
+    "id": "telur-dadar-bawang",
+    "nama": "Telur Dadar Lembut Irisan Bawang",
+    "deskripsi": "Telur dadar kuning keemasan yang harum gurih dengan irisan bawang merah segar.",
+    "porsi": "1-2 porsi",
+    "waktu": 7,
+    "waktuMasak": "7 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/telur-dadar-bawang.jpg",
+    "bahan": [
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Pecahkan telur ke dalam mangkuk, masukkan irisan tipis bawang merah dan sedikit garam.",
+      "Kocok lepas hingga kuning dan putih telur menyatu berbusa ringan.",
+      "Panaskan sedikit minyak di wajan anti lengket dengan api sedang. Bumbui dengan micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang kocokan telur, masak hingga bagian bawah keemasan lalu lipat atau balik sebentar."
+    ]
+  },
+  {
+    "id": "nasi-goreng-bawang-pedas",
+    "nama": "Nasi Goreng Bawang Cabai Rawit",
+    "deskripsi": "Nasi goreng hemat tanpa ribet mengandalkan wangi tumisan bawang merah dan pedasnya cabai rawit.",
+    "porsi": "1 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/nasi-goreng-bawang.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Siapkan sepiring nasi putih dingin yang butirannya tidak menggumpal.",
+      "Panaskan minyak, tumis irisan bawang merah dan cabai rawit sampai harum semerbak.",
+      "Masukkan nasi putih, besarkan api lalu aduk cepat hingga bumbu menyatu rata. Bumbui dengan garam, micin (penyedap rasa), dan kaldu bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Koreksi rasa gurihnya, angkat dan hidangkan panas."
+    ]
+  },
+  {
+    "id": "mie-goreng-pedas-bawang",
+    "nama": "Mie Instan Goreng Tumis Bawang Rawit",
+    "deskripsi": "Kreasi mie instan goreng yang naik kelas karena ditumis ulang dengan bawang merah dan rawit segar.",
+    "porsi": "1 porsi",
+    "waktu": 8,
+    "waktuMasak": "8 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/indomie-warkop-spesial.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus mie instan hingga 80% matang, angkat dan tiriskan airnya.",
+      "Panaskan sedikit minyak, tumis irisan bawang merah dan cabai rawit hingga layu wangi.",
+      "Masukkan mie rebus beserta bumbu mie instan ke dalam wajan. Bumbui dengan garam dan micin (penyedap rasa) secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk cepat di atas api sedang selama 1 menit hingga harum berasap, lalu sajikan."
+    ]
+  },
+  {
+    "id": "kentang-balado-pedas-rumahan",
+    "nama": "Sambal Goreng Kentang Balado Pedas",
+    "deskripsi": "Potongan kentang goreng empuk dibalut bumbu sambal bawang cabai yang pedas gurih menggugah selera.",
+    "porsi": "2-3 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/kentang-balado-pedas.jpg",
+    "bahan": [
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas kentang, potong dadu atau iris serong lalu goreng sampai matang berkulit tipis.",
+      "Haluskan cabai rawit merah dan bawang merah.",
+      "Tumis bumbu halus dengan sedikit minyak hingga tanak dan harum. Tambahkan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Masukkan kentang goreng, aduk rata sampai seluruh permukaan kentang terbalut bumbu merah."
+    ]
+  },
+  {
+    "id": "singkong-goreng-merekah",
+    "nama": "Singkong Goreng Merekah Gurih Bawang",
+    "deskripsi": "Camilan singkong empuk merekah dengan bagian luar renyah dan bagian dalam gurih pulen.",
+    "porsi": "3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/singkong-goreng-merekah.jpg",
+    "bahan": [
+      {
+        "id": "singkong",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong singkong kupas, rebus sebentar hingga setengah empuk lalu tiriskan.",
+      "Rendam singkong panas ke dalam air dingin dengan ulekan bawang merah selama 5 menit hingga merekah.",
+      "Panaskan minyak goreng cukup banyak dengan api sedang. Taburi garam dan kaldu bubuk secukupnya selagi hangat agar makin gurih.",
+      "Goreng singkong hingga kuning keemasan dan renyah di luar, angkat dan tiriskan."
+    ]
+  },
+  {
+    "id": "keripik-singkong-gurih-renyah",
+    "nama": "Keripik Singkong Iris Tipis Gurih",
+    "deskripsi": "Irisan tipis singkong segar digoreng garing renyah dengan aroma bawang gurih untuk camilan hemat.",
+    "porsi": "3 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/keripik-singkong-gurih.jpg",
+    "bahan": [
+      {
+        "id": "singkong",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Iris singkong kupas setipis mungkin menggunakan pisau tajam, cuci bersih hingga airnya bening.",
+      "Rendam irisan singkong dengan air ulekan bawang dan garam selama 5 menit, lalu tiriskan.",
+      "Goreng sedikit demi sedikit di minyak panas sedang sambil diaduk agar tidak saling menempel. Taburi micin (penyedap rasa) dan kaldu bubuk secukupnya selagi hangat agar makin gurih.",
+      "Angkat saat gelembung minyak tenang dan keripik garing renyah."
+    ]
+  },
+  {
+    "id": "ubi-goreng-tepung-renyah",
+    "nama": "Ubi Jalar Goreng Balut Tepung Crispy",
+    "deskripsi": "Ubi jalar manis empuk dilapisi adonan tepung terigu renyah keemasan yang nikmat saat hangat.",
+    "porsi": "2-3 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/ubi-goreng-tepung.jpg",
+    "bahan": [
+      {
+        "id": "ubi",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas ubi jalar manis, iris bulat miring setebal 1 cm.",
+      "Larutkan tepung terigu dengan air secukupnya dan sejumput garam hingga menjadi adonan kental.",
+      "Celupkan irisan ubi ke adonan tepung hingga seluruh permukaannya tertutup rata. Tambahkan sejumput sedikit gula pasir agar rasa manis gurihnya makin seimbang.",
+      "Goreng dalam minyak panas api sedang sampai lapisan tepung renyah keemasan dan ubi lembut."
+    ]
+  },
+  {
+    "id": "cireng-tepung-pedas",
+    "nama": "Gorengan Tepung Crispy Sambal Rawit",
+    "deskripsi": "Olahan adonan tepung bawang yang digoreng garing mengembang disajikan dengan sambal rawit pedas.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/cireng-rujak-crispy.jpg",
+    "bahan": [
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Didihkan sedikit air bersama ulekan bawang merah dan garam.",
+      "Tuang air mendidih ke dalam tepung sambil diaduk perlahan hingga kalis dan bisa dipipihkan.",
+      "Bentuk pipih bulat, goreng di minyak sedang hingga mengembang putih keemasan dan garing. Bumbui dengan micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Sajikan hangat dengan ulekan cabai rawit pedas."
+    ]
+  },
+  {
+    "id": "ayam-penyet-sambal-rawit",
+    "nama": "Ayam Goreng Penyet Sambal Bawang",
+    "deskripsi": "Potongan ayam goreng gurih dipenyet langsung di atas cobek sambal bawang cabai rawit panas.",
+    "porsi": "1-2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/ayam-penyet-sambal.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Ungkep sebentar potongan ayam dengan ulekan bawang merah dan sedikit air hingga bumbu meresap.",
+      "Goreng ayam dalam minyak panas hingga matang kuning kecokelatan.",
+      "Ulek cabai rawit dan bawang merah di cobek, siram sesendok minyak panas sisa menggoreng ayam. Tambahkan garam, micin (penyedap rasa), dan kaldu bubuk secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Letakkan ayam goreng di atas cobek lalu tekan/penyet perlahan agar sambal meresap."
+    ]
+  },
+  {
+    "id": "ayam-rica-pedas-rumahan",
+    "nama": "Ayam Masak Rica Pedas Cabai Merah",
+    "deskripsi": "Olahan ayam tumis kuah kental pedas menyengat dari ulekan cabai rawit merah dan bawang melimpah.",
+    "porsi": "2 porsi",
+    "waktu": 22,
+    "waktuMasak": "22 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/ayam-rica-pedas.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong daging ayam ukuran sedang dan cuci bersih.",
+      "Ulek kasar banyak cabai merah dan bawang merah, lalu tumis dengan minyak hingga harum matang.",
+      "Masukkan potongan ayam, aduk hingga ayam berubah warna lalu tuang sedikit air. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Masak dengan api sedang hingga ayam empuk dan bumbu pedas menyusut meresap kental."
+    ]
+  },
+  {
+    "id": "sate-taichan-teflon",
+    "nama": "Sate Ayam Panggang Teflon Sambal Rawit",
+    "deskripsi": "Potongan dada ayam panggang wajan yang juicy disajikan dengan sambal rawit merah segar.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/sate-taichan-pedas.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong dadu fillet ayam, marinasi dengan ulekan halus bawang dan sedikit minyak selama 10 menit.",
+      "Tusuk potongan ayam atau panggang langsung di atas wajan datar panas hingga matang kecokelatan.",
+      "Rebus sebentar cabai rawit dan bawang, lalu ulek halus menjadi sambal pedas. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Sajikan ayam panggang hangat dengan cocolan sambal rawit."
+    ]
+  },
+  {
+    "id": "daging-sapi-tumis-pedas",
+    "nama": "Daging Sapi Masak Bumbu Pedas Padang",
+    "deskripsi": "Potongan daging sapi empuk dimasak perlahan bersama bumbu bawang dan cabai hingga pekat berempah.",
+    "porsi": "2 porsi",
+    "waktu": 30,
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/rendang-daging-padang.jpg",
+    "bahan": [
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong daging sapi berlawanan arah serat agar cepat empuk saat dimasak.",
+      "Haluskan bawang merah dan cabai rawit merah dalam jumlah cukup banyak.",
+      "Tumis bumbu halus dengan minyak hingga harum matang, lalu masukkan daging sapi. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tambahkan air secukupnya, masak dengan api kecil hingga daging empuk dan bumbu mengental pekat."
+    ]
+  },
+  {
+    "id": "ikan-goreng-sambal-bawang",
+    "nama": "Ikan Bakar / Goreng Sambal Bawang Rawit",
+    "deskripsi": "Ikan segar matang sempurna disajikan bersama ulekan sambal bawang cabai rawit segar.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/ikan-kembung-bakar.jpg",
+    "bahan": [
+      {
+        "id": "ikan",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan ikan segar dan kerat kedua sisi badannya.",
+      "Masak atau panggang ikan di wajan dengan sedikit minyak hingga matang kecokelatan di kedua sisi.",
+      "Iris atau ulek kasar bawang merah dan cabai rawit, siram sedikit minyak panas. Tambahkan garam, micin (penyedap rasa), dan kaldu bubuk secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Sajikan ikan hangat bersama sambal bawang pedas."
+    ]
+  },
+  {
+    "id": "udang-tumis-cabai-bawang",
+    "nama": "Nasi Udang Tumis Bawang Cabai Pedas",
+    "deskripsi": "Udang segar manis ditumis cepat dengan bawang merah dan cabai rawit disajikan di atas nasi hangat.",
+    "porsi": "1-2 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-udang-pedas.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas dan bersihkan punggung udang segar, cuci bersih lalu tiriskan.",
+      "Panaskan minyak, tumis ulekan bawang merah dan cabai rawit hingga harum kemerahan.",
+      "Masukkan udang segar, tumis cepat 3-4 menit saja sampai udang matang kemerahan dan tetap kenyal. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Sajikan tumisan udang pedas hangat bersama sepiring nasi putih."
+    ]
+  },
+  {
+    "id": "cumi-tumis-pedas-segar",
+    "nama": "Sambal Cumi Segar Tumis Bawang Rawit",
+    "deskripsi": "Potongan cumi-cumi segar kenyal empuk dimasak sambal bawang pedas merona.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-sambal-cumi.jpg",
+    "bahan": [
+      {
+        "id": "cumi",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan cumi segar, buang tulang plastiknya lalu potong cincin.",
+      "Ulek kasar cabai rawit merah dan bawang merah, tumis di minyak panas sampai benar-benar matang.",
+      "Masukkan potongan cumi, besarkan api dan masak cepat 2-3 menit saja agar cumi empuk tidak alot. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat segera dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "tumis-tahu-pedas-bawang",
+    "nama": "Tahu Gejrot Kuah Bawang Rawit Rumahan",
+    "deskripsi": "Potongan tahu goreng berpori disiram kuah ulekan bawang merah dan cabai rawit segar.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tahu-gejrot-cirebon.jpg",
+    "bahan": [
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng tahu putih di minyak panas hingga bagian luarnya berkulit kecokelatan, potong-potong.",
+      "Rebus sedikit air hingga mendidih lalu dinginkan sebentar.",
+      "Ulek kasar bawang merah dan cabai rawit merah di cobek. Bumbui dengan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang air hangat ke ulekan bumbu, lalu siramkan di atas potongan tahu goreng."
+    ]
+  },
+  {
+    "id": "orek-tempe-cabai-bawang",
+    "nama": "Orek Tempe Goreng Bawang Cabai",
+    "deskripsi": "Potongan dadu tempe digoreng setengah kering lalu ditumis pedas gurih dengan bawang dan cabai.",
+    "porsi": "2-3 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tempe-orek-pedas.jpg",
+    "bahan": [
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong tempe bentuk dadu memanjang, goreng setengah kering lalu tiriskan.",
+      "Sisakan sedikit minyak, tumis irisan bawang merah dan cabai hingga wangi layu.",
+      "Masukkan tempe goreng dan sedikit air agar bumbu meresap ke pori-pori tempe. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk hingga kuah menyusut kering dan sajikan."
+    ]
+  },
+  {
+    "id": "tumis-kangkung-bawang-cabai",
+    "nama": "Tumis Kangkung Segar Bawang Cabai",
+    "deskripsi": "Sayur kangkung hijau renyah ditumis cepat dengan api besar bersama bawang merah dan cabai rawit.",
+    "porsi": "2 porsi",
+    "waktu": 7,
+    "waktuMasak": "7 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/tumis-kangkung-resep.jpg",
+    "bahan": [
+      {
+        "id": "kangkung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Petik daun dan batang muda kangkung segar, cuci bersih lalu tiriskan.",
+      "Panaskan minyak di wajan, tumis irisan bawang merah dan cabai rawit sampai harum.",
+      "Besarkan api, masukkan kangkung lalu aduk cepat selama 2 menit saja agar tetap hijau renyah. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan terasi bakar secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat segera dan sajikan mendampingi nasi hangat."
+    ]
+  },
+  {
+    "id": "nasi-goreng-kampung-telur",
+    "nama": "Nasi Goreng Kampung & Telur Ceplok",
+    "deskripsi": "Nasi goreng ulek cabai bawang khas kampung dengan pendamping telur mata sapi gurih.",
+    "porsi": "1 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-goreng-kampung.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng sebutir telur ceplok terlebih dahulu hingga matang keemasan, sisihkan di piring.",
+      "Ulek kasar bawang merah dan cabai rawit, tumis di wajan hingga matang harum.",
+      "Masukkan nasi putih, aduk cepat dengan api besar sampai berasap harum. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan terasi bakar secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang nasi goreng ke piring dan letakkan telur ceplok di atasnya."
+    ]
+  },
+  {
+    "id": "nasi-telur-pontianak-rumahan",
+    "nama": "Nasi Telur Ceplok Siram Bawang Cabai",
+    "deskripsi": "Menu viral hemat anak kos: nasi hangat ditutup telur ceplok berenda dengan tumisan bawang cabai.",
+    "porsi": "1 porsi",
+    "waktu": 8,
+    "waktuMasak": "8 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/nasi-telur-pontianak.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Siapkan satu porsi nasi putih hangat di piring cekung.",
+      "Panaskan minyak, tumis cincangan bawang merah dan cabai rawit sebentar di pinggir wajan.",
+      "Ceplok telur langsung di atas tumisan bawang cabai hingga putihnya garing menyerap aroma bawang. Bumbui dengan garam, micin (penyedap rasa), dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat telur beserta minyak bawangnya, tumpangkan langsung di atas nasi hangat."
+    ]
+  },
+  {
+    "id": "nasi-goreng-spesial-wortel",
+    "nama": "Nasi Goreng Spesial Telur & Wortel Dadu",
+    "deskripsi": "Nasi goreng rumahan kaya warna dan serat berkat tambahan potongan dadu wortel manis dan telur.",
+    "porsi": "1-2 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-goreng-spesial.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong wortel bentuk dadu kecil agar cepat empuk saat ditumis.",
+      "Tumis irisan bawang merah dan cabai rawit, lalu masukkan dadu wortel selama 2 menit.",
+      "Sisihkan ke tepi wajan, masukkan telur dan orak-arik hingga berbutir matang. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan nasi putih, aduk rata dengan api besar hingga harum dan siap dihidangkan."
+    ]
+  },
+  {
+    "id": "orak-arik-telur-wortel",
+    "nama": "Orak-Arik Telur & Wortel Gurih",
+    "deskripsi": "Tumisan kilat bergizi tinggi perpaduan wortel manis lembut dengan orak-arik telur harum bawang.",
+    "porsi": "2 porsi",
+    "waktu": 8,
+    "waktuMasak": "8 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/resep/orak-arik-telur.jpg",
+    "bahan": [
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Iris tipis atau serut halus wortel segar seukuran korek api.",
+      "Panaskan minyak, tumis irisan bawang merah hingga harum kekuningan.",
+      "Masukkan irisan wortel dengan sedikit air, masak 2 menit sampai empuk. Bumbui dengan garam, kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang kocokan telur, aduk cepat (orak-arik) hingga matang berbulir lembut."
+    ]
+  },
+  {
+    "id": "mie-tek-tek-telur-ayam",
+    "nama": "Mie Tek-Tek Goreng Telur & Ayam",
+    "deskripsi": "Mie goreng tek-tek gaya gerobak malam dengan telur orak-arik dan suwiran ayam gurih.",
+    "porsi": "1-2 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/mie-tek-tek-telur.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus mie instan setengah matang lalu tiriskan; rebus dan suwir tipis daging ayam.",
+      "Tumis ulekan bawang merah dan cabai rawit hingga harum, masukkan telur lalu orak-arik.",
+      "Masukkan suwiran ayam dan mie beserta bumbunya. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk rata dengan api besar hingga bumbu menyatu harum, sajikan hangat."
+    ]
+  },
+  {
+    "id": "perkedel-kentang-telur-gurih",
+    "nama": "Perkedel Kentang Tumbuk Balut Telur",
+    "deskripsi": "Olahan kentang lembut berbumbu bawang goreng yang dicelup kocokan telur lalu digoreng keemasan.",
+    "porsi": "3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/perkedel-kentang-telur.jpg",
+    "bahan": [
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas dan potong kentang, goreng di minyak panas sampai empuk matang lalu tumbuk halus.",
+      "Campurkan kentang tumbuk dengan bawang merah goreng halus, bentuk bulat pipih.",
+      "Celupkan bulatan kentang ke dalam kocokan telur ayam. Bumbui dengan garam, kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Goreng dalam minyak panas sedang sampai terbalut selaput telur keemasan."
+    ]
+  },
+  {
+    "id": "nasi-ayam-goreng-sambal",
+    "nama": "Nasi Putih Ayam Goreng Bawang & Sambal",
+    "deskripsi": "Sepiring nasi putih hangat lengkap dengan ayam goreng ungkep bawang dan sambal cabai merah.",
+    "porsi": "1 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-ayam-goreng.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Masak beras menjadi nasi putih pulen hangat.",
+      "Ungkep ayam bersama ulekan bawang merah hingga empuk, lalu goreng garing keemasan.",
+      "Tumis ulekan cabai merah dan bawang sisa ungkepan menjadi sambal goreng. Tambahkan garam, micin (penyedap rasa), dan kaldu bubuk secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Tata nasi hangat, ayam goreng gurih, dan sambal pedas di piring saji."
+    ]
+  },
+  {
+    "id": "bubur-ayam-rumahan",
+    "nama": "Bubur Beras Ayam Suwir Hangat",
+    "deskripsi": "Bubur nasi lembut dimasak dengan kaldu ayam asli dan disajikan bersama suwiran ayam serta bawang goreng.",
+    "porsi": "2 porsi",
+    "waktu": 30,
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bubur-ayam-gurih.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus potongan ayam hingga matang berkaldu, angkat ayamnya lalu suwir-suwir halus.",
+      "Masukkan beras cuci ke dalam air kaldu ayam (perbandingan 1:5), masak sambil diaduk hingga menjadi bubur lembut.",
+      "Goreng irisan tipis bawang merah di sedikit minyak hingga renyah keemasan. Bumbui kuah dengan garam dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang bubur hangat ke mangkuk, beri taburan ayam suwir dan bawang goreng."
+    ]
+  },
+  {
+    "id": "sup-ayam-wortel-kentang",
+    "nama": "Sup Ayam Bening Wortel & Kentang",
+    "deskripsi": "Sup kaldu ayam rumahan yang jernih, hangat, dan kaya gizi dengan potongan wortel serta kentang.",
+    "porsi": "2-3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/sop-ayam-klaten.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus potongan ayam dengan api kecil hingga keluar kaldu bening gurih.",
+      "Masukkan irisan bawang merah ke dalam kuah kaldu agar harum segar.",
+      "Tambahkan potongan kentang dan wortel, rebus bersama ayam hingga sayuran empuk. Bumbui kuah dengan garam, kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Koreksi rasa dan sajikan hangat di mangkuk."
+    ]
+  },
+  {
+    "id": "ayam-goreng-tepung-krispi",
+    "nama": "Ayam Goreng Tepung Krispi Keriting",
+    "deskripsi": "Fillet ayam empuk berbalut adonan telur dan tepung terigu renyah berlapis.",
+    "porsi": "2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/fried-chicken-crispy.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Marinasi potongan ayam dengan ulekan halus bawang merah selama 10 menit.",
+      "Celupkan ayam ke kocokan telur, lalu gulingkan sambil dicubit ringan di dalam tepung terigu kering.",
+      "Goreng terendam dalam minyak panas sedang selama 8-10 menit hingga kuning keemasan. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Angkat, tiriskan minyaknya, dan nikmati kerenyahannya."
+    ]
+  },
+  {
+    "id": "nasi-ayam-geprek-rumahan",
+    "nama": "Nasi Ayam Geprek Tepung Sambal Bawang",
+    "deskripsi": "Ayam goreng tepung super renyah digeprek bersama sambal bawang minyak panas di atas nasi hangat.",
+    "porsi": "1-2 porsi",
+    "waktu": 22,
+    "waktuMasak": "22 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/nasi-ayam-geprek.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Balur potongan ayam dengan adonan basah dan tepung kering hingga bertekstur keriting.",
+      "Goreng ayam di minyak panas sampai matang garing kecokelatan.",
+      "Ulek kasar cabai rawit dan bawang merah, siram minyak panas lalu geprek ayam di atasnya. Tambahkan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Sajikan ayam geprek pedas di atas sepiring nasi putih hangat."
+    ]
+  },
+  {
+    "id": "nasi-goreng-daging-sapi",
+    "nama": "Nasi Goreng Daging Sapi & Telur",
+    "deskripsi": "Nasi goreng spesial dengan irisan daging sapi tumis empuk dan telur mata sapi.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-goreng-sapi.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Iris tipis daging sapi, tumis bersama bawang merah dan cabai di wajan panas hingga matang empuk.",
+      "Masukkan nasi putih ke dalam tumisan daging, aduk rata dengan api besar.",
+      "Goreng sebutir telur ceplok secara terpisah hingga matang. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Sajikan nasi goreng daging hangat dengan telur ceplok di atasnya."
+    ]
+  },
+  {
+    "id": "sop-daging-kentang-wortel",
+    "nama": "Sop Bening Daging Sapi Kentang Wortel",
+    "deskripsi": "Kuah kaldu sapi gurih alami dengan potongan daging empuk, kentang, dan wortel segar.",
+    "porsi": "3 porsi",
+    "waktu": 35,
+    "waktuMasak": "35 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/sop-daging-wortel.jpg",
+    "bahan": [
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus potongan daging sapi dengan api kecil hingga empuk dan menghasilkan kaldu bening.",
+      "Masukkan bawang merah iris ke dalam rebusan kaldu agar beraroma sedap.",
+      "Masukkan potongan kentang dan wortel, masak hingga empuk sempurna. Bumbui kuah dengan garam, kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat dan hidangkan panas mengepul."
+    ]
+  },
+  {
+    "id": "martabak-telur-daging-rumahan",
+    "nama": "Martabak Telur Kulit Tepung Isi Daging",
+    "deskripsi": "Martabak gurih renyah buatan rumah dengan isian kocokan telur, cincangan daging sapi, dan bawang.",
+    "porsi": "2-3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/martabak-telur-daging.jpg",
+    "langkah": [
+      "Uleni tepung terigu dengan sedikit air dan minyak hingga elastis, pipihkan tipis menjadi kulit.",
+      "Tumis cincangan halus daging sapi dan bawang merah hingga matang.",
+      "Kocok telur bersama tumisan daging dan irisan cabai, tuang ke atas lembaran kulit lalu lipat amplop. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Goreng di wajan datar dengan minyak sedang hingga kedua sisinya garing kecokelatan, potong kotak."
+    ],
+    "bahan": [
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ]
+  },
+  {
+    "id": "udang-goreng-tepung-krispi",
+    "nama": "Udang Goreng Tepung Crispy Cabai Bawang",
+    "deskripsi": "Udang segar berbalut tepung renyah ditumis kilat dengan taburan cabai dan bawang harum.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/udang-goreng-tepung.jpg",
+    "bahan": [
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas kulit udang sisakan ekornya, celupkan ke kocokan telur lalu balur tepung terigu.",
+      "Goreng udang di minyak panas hingga kuning keemasan dan renyah, tiriskan.",
+      "Tumis sebentar irisan bawang merah dan cabai rawit dengan 1 sendok minyak. Bumbui dengan garam, kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Masukkan udang crispy, aduk cepat 30 detik lalu angkat dan sajikan."
+    ]
+  },
+  {
+    "id": "cumi-goreng-tepung-calamari",
+    "nama": "Cumi Cincin Goreng Tepung Calamari",
+    "deskripsi": "Potongan cincin cumi-cumi segar dibalut tepung renyah keemasan yang empuk di dalam.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/cumi-goreng-tepung.jpg",
+    "bahan": [
+      {
+        "id": "cumi",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-sambal",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan cumi segar dan potong bentuk cincin setebal 1 cm, bumbui ulekan bawang halus.",
+      "Celupkan cincin cumi ke kocokan telur lalu gulingkan merata di tepung terigu kering.",
+      "Goreng dalam minyak panas api sedang-besar selama 2-3 menit saja hingga garing keemasan. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan saus sambal secukupnya agar gurih meresap sempurna.",
+      "Tiriskan di atas tisu dapur dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "pempek-ikan-telur-rumahan",
+    "nama": "Pempek Ikan Isi Telur Kuah Pedas",
+    "deskripsi": "Olahan daging ikan giling dan tepung kenyal gurih berisi telur dengan siraman kuah cabai.",
+    "porsi": "2-3 porsi",
+    "waktu": 30,
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/pempek-ikan-telur.jpg",
+    "bahan": [
+      {
+        "id": "ikan",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kerok daging ikan segar bebas duri, haluskan bersama bawang dan campur tepung hingga kalis.",
+      "Bentuk kantung adonan, isi bagian tengahnya dengan kocokan telur lalu rapatkan tepinya.",
+      "Rebus pempek di air mendidih hingga mengapung matang, angkat dan tiriskan. Bumbui dengan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya agar gurih meresap sempurna.",
+      "Sajikan dengan rebusan kuah cabai bawang pedas segar."
+    ]
+  },
+  {
+    "id": "tempe-mendoan-tepung-hangat",
+    "nama": "Tempe Mendoan Balut Tepung Sambal Rawit",
+    "deskripsi": "Irisan lebar tempe tipis berbalut adonan tepung gurih digoreng hangat dengan cocolan cabai rawit.",
+    "porsi": "2-3 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tempe-mendoan-hangat.jpg",
+    "bahan": [
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Iris tipis lebar papan tempe.",
+      "Campur tepung terigu, ulekan bawang merah, dan air secukupnya menjadi adonan kental.",
+      "Celupkan tempe ke adonan tepung, goreng sebentar di minyak panas hingga matang lembut keemasan. Bumbui dengan garam, kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Sajikan hangat dengan irisan cabai rawit pedas."
+    ]
+  },
+  {
+    "id": "tahu-isi-wortel-tepung",
+    "nama": "Tahu Isi Tumis Wortel Goreng Tepung",
+    "deskripsi": "Tahu goreng renyah berisi tumisan serutan wortel manis gurih ditemani cabai rawit utuh.",
+    "porsi": "2-3 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/tahu-isi-sayur.jpg",
+    "bahan": [
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng tahu putih hingga berkulit, belah satu sisinya untuk kantung isian.",
+      "Tumis serutan wortel dengan bawang merah hingga layu gurih, masukkan ke dalam kantung tahu.",
+      "Celupkan tahu isi ke adonan tepung terigu kental. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Goreng di minyak panas sampai selimut tepung renyah keemasan, sajikan dengan cabai rawit."
+    ]
+  },
+  {
+    "id": "tumis-bayam-tahu-gurih",
+    "nama": "Tumis Bayam Hijau & Tahu Goreng",
+    "deskripsi": "Perpaduan sehat sayur bayam segar dengan potongan dadu tahu keemasan beraroma bawang.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tumis-bayam-tahu.jpg",
+    "bahan": [
+      {
+        "id": "bayam",
+        "jumlah": 1
+      },
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong kotak tahu putih, goreng hingga kuning kecokelatan lalu sisihkan.",
+      "Panaskan sedikit minyak, tumis irisan bawang merah hingga harum.",
+      "Masukkan daun bayam segar dan tahu goreng, tambahkan sedikit air. Bumbui dengan garam, kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk cepat 1-2 menit hingga bayam layu segar, angkat dan sajikan."
+    ]
+  },
+  {
+    "id": "bakwan-sayur-bayam-wortel",
+    "nama": "Bakwan Renyah Sayur Wortel & Bayam",
+    "deskripsi": "Gorengan bakwan sayur garing keemasan dari serutan wortel manis, irisan daun bayam, dan tepung.",
+    "porsi": "3 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bakwan-sayur-wortel.jpg",
+    "bahan": [
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bayam",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Serut korek api wortel segar dan iris kasar daun bayam.",
+      "Larutkan tepung terigu dengan ulekan bawang merah dan air dingin hingga kental.",
+      "Aduk rata sayuran di dalam adonan tepung. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Tuang per sendok sayur di tepi wajan berminyak panas, goreng hingga renyah keemasan."
+    ]
+  },
+  {
+    "id": "cah-kangkung-bawang-gurih",
+    "nama": "Cah Kangkung Bawang Tanpa Pedas",
+    "deskripsi": "Tumis kangkung segar ramah perut tanpa cabai dengan aroma bawang merah tumis yang wangi gurih.",
+    "porsi": "2 porsi",
+    "waktu": 6,
+    "waktuMasak": "6 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/cah-kangkung-pedas.jpg",
+    "bahan": [
+      {
+        "id": "kangkung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Siangi kangkung segar, pisahkan daun dan batang mudanya lalu cuci bersih.",
+      "Panaskan minyak goreng, tumis irisan bawang merah hingga harum keemasan.",
+      "Masukkan kangkung dengan api besar dan 2 sendok makan air, aduk cepat selama 2 menit. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat selagi hijau segar dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "nasi-goreng-seafood-komplit",
+    "nama": "Nasi Goreng Seafood Udang & Cumi",
+    "deskripsi": "Nasi goreng spesial ala restoran dengan potongan udang manis, cincin cumi kenyal, dan telur.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/nasi-goreng-seafood.jpg",
+    "bahan": [
+      {
+        "id": "beras",
+        "jumlah": 1
+      },
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "cumi",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan udang dan potong cincin cumi segar.",
+      "Tumis bawang merah dan cabai rawit di minyak panas, masukkan udang dan cumi selama 2 menit.",
+      "Masukkan telur kocok lalu orak-arik bersama seafood. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Tambahkan nasi putih dingin, besarkan api dan aduk cepat hingga berasap harum."
+    ]
+  },
+  {
+    "id": "pecel-lele-tempe-sambal",
+    "nama": "Ikan & Tempe Goreng Penyet Sambal",
+    "deskripsi": "Paket lauk warung favorit: ikan goreng garing berdampingan dengan tempe goreng dan sambal ulek.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/pecel-lele-tempe.jpg",
+    "bahan": [
+      {
+        "id": "ikan",
+        "jumlah": 1
+      },
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng potongan tempe terlebih dahulu di minyak panas hingga kuning kecokelatan, tiriskan.",
+      "Goreng ikan segar di minyak yang sama hingga garing merata di kedua sisi.",
+      "Goreng sebentar cabai rawit dan bawang merah hingga layu, lalu ulek halus di cobek. Tambahkan garam, micin (penyedap rasa), kaldu bubuk, dan terasi bakar secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Sajikan ikan goreng dan tempe hangat bersama sambal ulek."
+    ]
+  },
+  {
+    "id": "mie-goreng-aceh-sapi",
+    "nama": "Mie Goreng Pedas Daging Sapi",
+    "deskripsi": "Olahan mie goreng berbumbu ulek bawang cabai pekat dengan irisan daging sapi empuk.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/mie-aceh-pedas.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      },
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus mie instan sebentar hingga kenyal lalu tiriskan; iris tipis daging sapi.",
+      "Haluskan bawang merah dan cabai merah, tumis di minyak panas hingga harum berminyak.",
+      "Masukkan irisan daging sapi dan sedikit air, masak hingga daging empuk. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan mie dan bumbunya, aduk rata hingga kuah bumbu meresap kental ke mie."
+    ]
+  },
+  {
+    "id": "resep-bakwan-jagung",
+    "nama": "Bakwan Jagung Manis Renyah Rumahan",
+    "deskripsi": "Gorengan bakwan jagung manis pipil dengan irisan daun bawang yang garing di luar dan lembut gurih di dalam.",
+    "porsi": "2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bakwan-jagung-manis.jpg",
+    "bahan": [
+      {
+        "id": "jagung",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "daun-bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Sisir biji jagung manis dari tongkolnya lalu iris tipis daun bawang dan bawang merah.",
+      "Campurkan jagung, tepung terigu, telur, daun bawang, dan bawang merah dengan sedikit air hingga adonan kental.",
+      "Panaskan minyak goreng, tuang satu sendok sayur adonan di tepi wajan hingga melebar. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan sedikit gula pasir secukupnya agar gurih meresap sempurna.",
+      "Goreng dengan api sedang sampai kuning keemasan dan renyah, tiriskan lalu sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-sayur-bening-jagung",
+    "nama": "Sayur Bening Bayam & Jagung Manis",
+    "deskripsi": "Kuah bening segar perpaduan bayam hijau dan potongan jagung manis yang ringan serta menyehatkan.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/sayur-bening-jagung.jpg",
+    "bahan": [
+      {
+        "id": "bayam",
+        "jumlah": 1
+      },
+      {
+        "id": "jagung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "tomat",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong-potong tongkol jagung manis dan petiki daun bayam segar lalu cuci bersih.",
+      "Didihkan air di panci bersama irisan bawang merah, masukkan jagung terlebih dahulu hingga matang.",
+      "Masukkan daun bayam dan potongan tomat merah, masak sebentar 2 menit agar bayam tetap hijau segar. Bumbui kuah dengan garam, kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Koreksi rasa lalu angkat dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-bihun-goreng-kecap",
+    "nama": "Bihun Goreng Kecap Telur & Kol",
+    "deskripsi": "Bihun lembut yang ditumis harum dengan telur orak-arik, kol renyah, dan kecap manis.",
+    "porsi": "2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bihun-goreng-jawa.jpg",
+    "bahan": [
+      {
+        "id": "bihun",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "kol",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rendam bihun kering dengan air hangat hingga lunak lalu tiriskan dan beri kecap manis.",
+      "Tumis irisan bawang merah hingga harum, sisihkan ke tepi wajan lalu buat orak-arik telur.",
+      "Masukkan irisan kol putih, aduk sebentar hingga agak layu. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan bihun, aduk rata di atas api besar hingga bumbu meresap dan sajikan."
+    ]
+  },
+  {
+    "id": "resep-bihun-goreng-udang",
+    "nama": "Bihun Goreng Udang & Sawi Hijau",
+    "deskripsi": "Sajian bihun goreng spesial dengan udang segar kupas dan sawi hijau caisim yang gurih mengenyangkan.",
+    "porsi": "2 porsi",
+    "waktu": 22,
+    "waktuMasak": "22 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bihun-goreng-udang.jpg",
+    "bahan": [
+      {
+        "id": "bihun",
+        "jumlah": 1
+      },
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "sawi-hijau",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Seduh bihun hingga lunak lalu tiriskan airnya sampai tuntas.",
+      "Tumis bawang putih dengan minyak panas, masukkan udang kupas hingga berubah warna kemerahan.",
+      "Tambahkan potongan sawi hijau, aduk hingga layu. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan bihun dan kecap manis, masak sambil diaduk rata lalu angkat."
+    ]
+  },
+  {
+    "id": "resep-ketoprak-rumahan",
+    "nama": "Ketoprak Tahu Bihun Tauge Bumbu Kacang",
+    "deskripsi": "Sepiring tahu goreng, bihun, tauge renyah, dan telur rebus disiram saus kacang bawang putih dan kecap manis.",
+    "porsi": "1-2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/ketoprak-jakarta.jpg",
+    "bahan": [
+      {
+        "id": "bihun",
+        "jumlah": 1
+      },
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "tauge",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng kacang tanah dan potongan tahu putih hingga matang, lalu rebus telur dan seduh bihun serta tauge.",
+      "Ulek halus kacang tanah goreng bersama bawang putih mentah, cabai rawit, dan sedikit air hangat.",
+      "Tata bihun, tauge, potongan tahu goreng, dan belahan telur rebus di atas piring. Tambahkan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Siram dengan bumbu kacang kental dan kucuri kecap manis di atasnya."
+    ]
+  },
+  {
+    "id": "resep-sup-makaroni-sosis",
+    "nama": "Sup Makaroni Sosis Daun Bawang Hangat",
+    "deskripsi": "Sup rumahan favorit dengan makaroni empuk, irisan sosis gurih, dan aroma daun bawang.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/sup-makaroni-sosis.jpg",
+    "bahan": [
+      {
+        "id": "makaroni",
+        "jumlah": 1
+      },
+      {
+        "id": "sosis",
+        "jumlah": 1
+      },
+      {
+        "id": "daun-bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Didihkan air di panci bersama irisan bawang merah hingga harum.",
+      "Masukkan makaroni kering dan potongan sosis, masak 8-10 menit sampai makaroni mekar empuk.",
+      "Tambahkan irisan daun bawang sesaat sebelum api dimatikan. Bumbui kuah dengan garam, kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Tuang ke mangkuk dan nikmati selagi kuahnya hangat."
+    ]
+  },
+  {
+    "id": "resep-pisang-goreng-crispy",
+    "nama": "Pisang Goreng Tepung Crispy Hangat",
+    "deskripsi": "Pisang kepok matang dibalut adonan tepung renyah keemasan untuk teman santai sore.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/pisang-goreng-crispy.jpg",
+    "bahan": [
+      {
+        "id": "pisang",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas pisang kepok lalu belah memanjang menyerupai kipas tanpa putus.",
+      "Larutkan tepung terigu dengan air secukupnya hingga membentuk adonan pencelup sedang.",
+      "Celupkan pisang ke adonan tepung lalu goreng dalam minyak panas hingga kuning kecokelatan. Tambahkan sejumput garam dan sedikit gula pasir agar rasa manis gurihnya makin seimbang.",
+      "Angkat, tiriskan minyaknya, dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-pisang-goreng-keju",
+    "nama": "Pisang Goreng Tabur Keju & Gula Aren",
+    "deskripsi": "Pisang goreng hangat yang ditaburi parutan keju cheddar melimpah dan serutan gula merah manis legit.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/pisang-goreng-keju.jpg",
+    "bahan": [
+      {
+        "id": "pisang",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "keju",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-merah",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Balur potongan pisang kepok dengan adonan tepung terigu lalu goreng hingga matang keemasan.",
+      "Susun pisang goreng selagi masih panas di atas piring saji.",
+      "Taburkan serutan tipis gula merah aren agar meleleh lembut di permukaan pisang. Tambahkan sejumput garam agar rasa manis gurihnya makin seimbang.",
+      "Beri parutan keju cheddar melimpah di atasnya dan sajikan segera."
+    ]
+  },
+  {
+    "id": "resep-kolak-pisang-ubi",
+    "nama": "Kolak Pisang & Ubi Kuah Santan Gula Merah",
+    "deskripsi": "Hidangan manis tradisional dari rebusan ubi jalar dan pisang kepok dalam kuah santan gula aren gurih.",
+    "porsi": "2-3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/kolak-pisang-ubi.jpg",
+    "bahan": [
+      {
+        "id": "pisang",
+        "jumlah": 1
+      },
+      {
+        "id": "ubi",
+        "jumlah": 1
+      },
+      {
+        "id": "santan",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-merah",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus air bersama gula merah aren hingga larut, lalu saring bila perlu.",
+      "Masukkan potongan dadu ubi jalar, masak hingga ubi mulai empuk.",
+      "Tambahkan potongan pisang kepok dan tuang santan kental sambil diaduk perlahan agar santan tidak pecah. Tambahkan sejumput garam agar rasa manis gurihnya makin seimbang.",
+      "Masak sebentar hingga mendidih lembut dan harum, lalu sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-kerang-saus-padang",
+    "nama": "Kerang Hijau Tumis Saus Padang Serai",
+    "deskripsi": "Kerang hijau segar dimasak dengan bumbu cabai tomat dan batang serai harum menggugah selera.",
+    "porsi": "2 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/kerang-hijau-padang.jpg",
+    "bahan": [
+      {
+        "id": "kerang",
+        "jumlah": 1
+      },
+      {
+        "id": "tomat",
+        "jumlah": 1
+      },
+      {
+        "id": "serai",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-sambal",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih cangkang kerang hijau lalu rebus sebentar bersama batang serai geprek hingga cangkang terbuka dan tiriskan.",
+      "Haluskan cabai, bawang merah, dan tomat merah lalu tumis dengan minyak hingga matang berminyak.",
+      "Masukkan kerang hijau dan sedikit air, aduk rata hingga bumbu saus meresap ke dalam cangkang. Bumbui dengan garam, kaldu bubuk, sedikit gula pasir, saus tiram, dan saus sambal secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat dan sajikan hangat bersama nasi putih."
+    ]
+  },
+  {
+    "id": "resep-kepiting-saus-padang",
+    "nama": "Kepiting Saus Padang Telur Segar",
+    "deskripsi": "Olahan kepiting istimewa dalam balutan saus pedas tomat berpadu kocokan telur dan perasan jeruk nipis.",
+    "porsi": "2 porsi",
+    "waktu": 35,
+    "waktuMasak": "35 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/kepiting-saus-padang.jpg",
+    "bahan": [
+      {
+        "id": "kepiting",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "tomat",
+        "jumlah": 1
+      },
+      {
+        "id": "jeruk-nipis",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-sambal",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Bersihkan kepiting, belah dua badannya, kucuri jeruk nipis lalu rebus sebentar hingga matang kemerahan.",
+      "Tumis bumbu halus bawang merah, cabai, dan tomat hingga harum matang.",
+      "Tuang sedikit air rebusan lalu kocok lepas telur dan tuang perlahan sambil diaduk hingga kuah mengental. Bumbui dengan garam, kaldu bubuk, lada bubuk, saus tiram, dan saus sambal secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan kepiting, aduk rata hingga seluruh cangkang terbalut saus kental lalu sajikan."
+    ]
+  },
+  {
+    "id": "resep-sambal-teri-kacang",
+    "nama": "Sambal Goreng Teri & Kacang Tanah Awet Renyah",
+    "deskripsi": "Lauk kering praktis pendamping nasi hangat dari ikan teri garing dan kacang tanah berbalut sambal manis pedas.",
+    "porsi": "3 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/sambal-teri-kacang.jpg",
+    "bahan": [
+      {
+        "id": "ikan-teri",
+        "jumlah": 1
+      },
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-merah",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng kacang tanah hingga matang renyah dan goreng ikan teri secara terpisah sampai garing keemasan.",
+      "Tumis bumbu halus cabai, bawang merah, dan irisan gula merah hingga matang dan berkaramel.",
+      "Matikan api lalu tunggu uap panas berkurang sedikit agar teri tetap renyah. Tambahkan garam dan micin (penyedap rasa) secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Masukkan teri dan kacang goreng, aduk cepat hingga terbalut rata."
+    ]
+  },
+  {
+    "id": "resep-sosis-bakar-kecap",
+    "nama": "Sosis Panggang Mekar Kecap Pedas Manis",
+    "deskripsi": "Sosis kerat mekar yang dipanggang di teflon dengan olesan kecap manis dan cabai karamel.",
+    "porsi": "1-2 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/sosis-bakar-pedas.jpg",
+    "bahan": [
+      {
+        "id": "sosis",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-sambal",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kerat-kerat ujung dan permukaan sosis secara menyilang agar mekar cantik saat dipanggang.",
+      "Campurkan kecap manis, irisan halus cabai rawit, dan sedikit minyak sebagai bahan olesan.",
+      "Panggang sosis di atas wajan datar sambil diolesi bumbu kecap berulang kali hingga mekar kecokelatan. Bumbui dengan garam, lada bubuk, dan saus sambal secukupnya, aduk rata dan koreksi rasa.",
+      "Angkat dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-tumis-sosis-jamur",
+    "nama": "Tumis Sosis & Jamur Tiram Pedas Gurih",
+    "deskripsi": "Masakan kilat anak kos perpaduan suwiran jamur tiram kenyal dan irisan sosis bumbu bawang putih cabai.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tumis-sosis-jamur.jpg",
+    "bahan": [
+      {
+        "id": "sosis",
+        "jumlah": 1
+      },
+      {
+        "id": "jamur-tiram",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Suwir-suwir jamur tiram, cuci bersih dan peras airnya, lalu iris serong sosis.",
+      "Tumis bawang putih cincang dan irisan cabai rawit dengan minyak panas hingga harum.",
+      "Masukkan irisan sosis, tumis hingga permukaannya sedikit kecokelatan. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan jamur tiram, aduk rata hingga jamur matang lembut lalu sajikan."
+    ]
+  },
+  {
+    "id": "resep-gado-gado-sayur",
+    "nama": "Gado-Gado Sayur Segar Saus Kacang Rumahan",
+    "deskripsi": "Aneka rebusan sayur kol, buncis, tauge, tahu, tempe, dan telur dengan siraman bumbu kacang gurih.",
+    "porsi": "2 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/gado-gado-komplit.jpg",
+    "bahan": [
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "kol",
+        "jumlah": 1
+      },
+      {
+        "id": "buncis",
+        "jumlah": 1
+      },
+      {
+        "id": "tauge",
+        "jumlah": 1
+      },
+      {
+        "id": "timun",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-merah",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Rebus kol, potongan buncis, tauge, dan telur ayam secara bergantian lalu tiriskan; goreng tahu, tempe, dan kacang tanah.",
+      "Haluskan kacang tanah goreng bersama gula merah dan sedikit air hangat hingga lembut.",
+      "Susun sayuran rebus, irisan timun segar, tahu, tempe, dan telur rebus di piring. Bumbui kuah dengan garam dan terasi bakar secukupnya, aduk rata dan koreksi rasa.",
+      "Siram rata dengan saus kacang dan sajikan."
+    ]
+  },
+  {
+    "id": "resep-gado-gado-betawi",
+    "nama": "Gado-Gado Kangkung & Timun Bumbu Kacang Praktis",
+    "deskripsi": "Sepiring kangkung rebus dan irisan timun segar disiram sambal kacang tanah pedas gurih.",
+    "porsi": "1-2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/gado-gado-betawi.jpg",
+    "bahan": [
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "timun",
+        "jumlah": 1
+      },
+      {
+        "id": "kangkung",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng kacang tanah sebentar dengan sedikit minyak hingga matang lalu ulek halus bersama cabai rawit dan sedikit air hangat.",
+      "Rebus kangkung segar selama 2 menit di air mendidih lalu tiriskan, dan potong-potong timun segar.",
+      "Tata kangkung rebus dan potongan timun renyah di atas piring. Tambahkan garam, sedikit gula pasir, dan terasi bakar secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Siram bumbu kacang di atas sayuran lalu sajikan segera."
+    ]
+  },
+  {
+    "id": "resep-bubur-kacang-hijau",
+    "nama": "Bubur Kacang Hijau Empuk Santan Gula Aren",
+    "deskripsi": "Bubur kacang hijau lembut mengenyangkan dengan kuah santan gurih dan manis alami gula merah.",
+    "porsi": "2-3 porsi",
+    "waktu": 35,
+    "waktuMasak": "35 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/bubur-kacang-hijau.jpg",
+    "bahan": [
+      {
+        "id": "kacang-hijau",
+        "jumlah": 1
+      },
+      {
+        "id": "santan",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-merah",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih biji kacang hijau lalu rebus dalam air mendidih hingga bijinya pecah dan empuk.",
+      "Masukkan sisiran gula merah aren, aduk hingga larut sempurna dan bubur mengental.",
+      "Tuangkan santan kelapa, masak dengan api kecil sambil terus diaduk perlahan hingga mendidih. Tambahkan sejumput garam agar rasa manis gurihnya makin seimbang.",
+      "Sajikan hangat di dalam mangkuk."
+    ]
+  },
+  {
+    "id": "resep-terong-balado",
+    "nama": "Terong Ungu Goreng Sambal Balado Tomat",
+    "deskripsi": "Belahan terong ungu lembut berpadu sambal balado cabai merah dan tomat yang pedas segar menggugah selera.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/terong-balado-pedas.jpg",
+    "bahan": [
+      {
+        "id": "terong",
+        "jumlah": 1
+      },
+      {
+        "id": "tomat",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Belah dua dan potong serasi terong ungu, goreng sebentar dalam minyak panas hingga empuk lalu tiriskan.",
+      "Ulek kasar cabai, bawang merah, dan tomat merah segar.",
+      "Tumis sambal balado dengan sedikit minyak hingga matang dan harum. Tambahkan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya agar racikan bumbu makin gurih nikmat.",
+      "Masukkan terong goreng, aduk balik perlahan agar terong tidak hancur lalu sajikan."
+    ]
+  },
+  {
+    "id": "resep-capcay-sayur-ayam",
+    "nama": "Capcay Sayur Ayam Kuah Bawang Putih",
+    "deskripsi": "Tumisan berkuah aneka sayuran segar wortel, brokoli, kol, sawi hijau, dan irisan ayam fillet bergizi lengkap.",
+    "porsi": "2-3 porsi",
+    "waktu": 22,
+    "waktuMasak": "22 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/capcay-sayur-komplit.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "wortel",
+        "jumlah": 1
+      },
+      {
+        "id": "brokoli",
+        "jumlah": 1
+      },
+      {
+        "id": "sawi-hijau",
+        "jumlah": 1
+      },
+      {
+        "id": "kol",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Tumis bawang putih cincang hingga harum keemasan, masukkan potongan dadu ayam fillet hingga matang.",
+      "Masukkan irisan wortel dan sedikit air, masak 3 menit hingga wortel mulai lunak.",
+      "Tambahkan kuntum brokoli, potongan kol, dan sawi hijau. Bumbui kuah dengan garam, kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Masak sebentar dengan api besar agar sayuran tetap renyah dan berwarna cerah, lalu angkat."
+    ]
+  },
+  {
+    "id": "resep-tumis-sawi-bawang",
+    "nama": "Tumis Sawi Hijau Bawang Putih Cepat Saji",
+    "deskripsi": "Sayur tumis praktis 10 menit dari sawi hijau segar dan irisan bawang putih harum.",
+    "porsi": "2 porsi",
+    "waktu": 10,
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tumis-sawi-bawang.jpg",
+    "bahan": [
+      {
+        "id": "sawi-hijau",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cuci bersih ikatan sawi hijau di bawah air mengalir lalu potong-potong sepanjang 4 cm, pisahkan batang dan daun.",
+      "Panaskan minyak, tumis irisan bawang putih sampai harum kekuningan.",
+      "Masukkan batang sawi terlebih dahulu selama 1 menit, lalu masukkan daunnya dan beri sedikit air. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk cepat hingga layu hijau cerah lalu segera sajikan."
+    ]
+  },
+  {
+    "id": "resep-tumis-brokoli-udang",
+    "nama": "Tumis Brokoli Hijau & Udang Bawang Putih",
+    "deskripsi": "Hidangan sehat kaya protein dari kuntum brokoli renyah dan udang kupas segar tumis bawang putih.",
+    "porsi": "2 porsi",
+    "waktu": 16,
+    "waktuMasak": "16 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/tumis-brokoli-udang.jpg",
+    "bahan": [
+      {
+        "id": "brokoli",
+        "jumlah": 1
+      },
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong kuntum brokoli dan rendam sebentar di air bersih, lalu blansir 1 menit di air mendidih dan tiriskan.",
+      "Tumis bawang putih cincang hingga harum, masukkan udang segar hingga berubah warna kemerahan.",
+      "Masukkan brokoli rebus dan tuang 3 sdm air. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk rata di atas api besar selama 1-2 menit lalu sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-cah-brokoli-udang",
+    "nama": "Cah Brokoli Udang Segar Jeruk Nipis",
+    "deskripsi": "Tumisan brokoli hijau segar dan udang kupas yang dimarinasi jeruk nipis agar gurih bebas amis.",
+    "porsi": "2 porsi",
+    "waktu": 15,
+    "waktuMasak": "15 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/cah-brokoli-udang.jpg",
+    "bahan": [
+      {
+        "id": "brokoli",
+        "jumlah": 1
+      },
+      {
+        "id": "udang",
+        "jumlah": 1
+      },
+      {
+        "id": "jeruk-nipis",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Lumuri udang kupas dengan perasan jeruk nipis selama 5 menit agar segar.",
+      "Blansir kuntum brokoli hijau selama 1 menit di air mendidih lalu tiriskan.",
+      "Tumis irisan bawang merah hingga harum, masukkan udang hingga matang kemerahan. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan brokoli, aduk rata sebentar lalu sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-tumis-buncis-tempe",
+    "nama": "Tumis Buncis Muda & Tempe Kecap Pedas",
+    "deskripsi": "Lauk rumahan hemat bergizi dari potongan buncis renyah dan dadu tempe goreng berbumbu kecap cabai.",
+    "porsi": "2 porsi",
+    "waktu": 18,
+    "waktuMasak": "18 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/tumis-buncis-tempe.jpg",
+    "bahan": [
+      {
+        "id": "buncis",
+        "jumlah": 1
+      },
+      {
+        "id": "tempe",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong dadu tempe lalu goreng setengah kering, dan iris serong buncis muda.",
+      "Tumis irisan bawang merah dan cabai rawit hingga harum.",
+      "Masukkan buncis muda dan sedikit air, masak hingga buncis setengah layu namun masih renyah. Bumbui dengan garam, micin (penyedap rasa), dan kaldu bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan tempe goreng dan kecap manis, aduk hingga meresap lalu angkat."
+    ]
+  },
+  {
+    "id": "resep-tumis-tauge-tahu",
+    "nama": "Tauge & Tahu Tumis Daun Bawang",
+    "deskripsi": "Olahan tauge putih segar dan potongan tahu goreng dengan aroma daun bawang yang gurih ekonomis.",
+    "porsi": "2 porsi",
+    "waktu": 12,
+    "waktuMasak": "12 menit",
+    "tingkatKesulitan": "Sangat Mudah",
+    "gambar": "/images/menu/tauge-goreng-tahu.jpg",
+    "bahan": [
+      {
+        "id": "tauge",
+        "jumlah": 1
+      },
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "daun-bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Potong dadu tahu putih lalu goreng hingga berkulit kecokelatan.",
+      "Tumis irisan bawang merah dan cabai hingga harum.",
+      "Masukkan tahu goreng, tauge putih segar, dan potongan daun bawang di atas api besar. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya, aduk rata dan koreksi rasa.",
+      "Aduk cepat selama 1 menit agar tauge tetap renyah tidak berair, lalu sajikan segera."
+    ]
+  },
+  {
+    "id": "resep-jamur-crispy-renyah",
+    "nama": "Jamur Tiram Crispy Goreng Tepung",
+    "deskripsi": "Camilan dan lauk favorit dari suwiran jamur tiram berbalut tepung berbumbu yang super garing.",
+    "porsi": "2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/jamur-crispy-tepung.jpg",
+    "bahan": [
+      {
+        "id": "jamur-tiram",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Suwir jamur tiram, cuci bersih lalu peras kuat hingga benar-benar kesat tidak menyimpan air.",
+      "Bumbui jamur dengan bawang putih halus, lalu gulingkan ke dalam tepung terigu kering sambil diremas ringan agar keriting.",
+      "Goreng dalam minyak panas yang cukup banyak dengan api sedang hingga kuning keemasan dan renyah. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, dan lada bubuk secukupnya agar gurih meresap sempurna.",
+      "Tiriskan di atas saringan dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-mie-ayam-jamur",
+    "nama": "Mie Ayam Jamur Tiram & Sawi Rumahan",
+    "deskripsi": "Kreasi mie hangat dengan topping tumisan ayam kecap manis, jamur tiram lembut, dan rebusan sawi hijau.",
+    "porsi": "1-2 porsi",
+    "waktu": 22,
+    "waktuMasak": "22 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/mie-ayam-jamur.jpg",
+    "bahan": [
+      {
+        "id": "mie-instan",
+        "jumlah": 1
+      },
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "jamur-tiram",
+        "jumlah": 1
+      },
+      {
+        "id": "sawi-hijau",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "saus-tiram",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Cincang daging ayam dan potong jamur tiram, lalu tumis bersama bawang putih dan kecap manis hingga matang berkuah kental.",
+      "Rebus mie dan potongan sawi hijau di panci terpisah hingga matang lalu tiriskan ke mangkuk.",
+      "Aduk mie dengan sedikit minyak tumisan ayam agar tidak lengket. Bumbui dengan garam, micin (penyedap rasa), kaldu bubuk, lada bubuk, dan saus tiram secukupnya, aduk rata dan koreksi rasa.",
+      "Beri topping ayam jamur melimpah di atasnya dan sajikan hangat."
+    ]
+  },
+  {
+    "id": "resep-sayur-lodeh-santan",
+    "nama": "Sayur Lodeh Labu Siam Terong & Santan",
+    "deskripsi": "Sayur berkuah santan gurih khas Jawa berisi potongan labu siam dan terong ungu lembut.",
+    "porsi": "3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/sayur-lodeh-santan.jpg",
+    "bahan": [
+      {
+        "id": "labu-siam",
+        "jumlah": 1
+      },
+      {
+        "id": "terong",
+        "jumlah": 1
+      },
+      {
+        "id": "santan",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kupas dan potong dadu labu siam serta potong-potong terong ungu segar.",
+      "Rebus air bersama irisan bawang merah dan cabai, lalu masukkan labu siam hingga setengah matang.",
+      "Masukkan terong ungu lalu tuang santan kelapa sambil diaduk perlahan. Bumbui kuah dengan garam, micin (penyedap rasa), kaldu bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Masak hingga sayuran empuk dan kuah santan gurih meresap."
+    ]
+  },
+  {
+    "id": "resep-sayur-asem-segar",
+    "nama": "Sayur Asem Labu Siam Jagung & Kacang Tanah",
+    "deskripsi": "Sayur berkuah segar asam manis berisi jagung manis, labu siam, dan kacang tanah rebus.",
+    "porsi": "3 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/sayur-asem-segar.jpg",
+    "bahan": [
+      {
+        "id": "labu-siam",
+        "jumlah": 1
+      },
+      {
+        "id": "jagung",
+        "jumlah": 1
+      },
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      },
+      {
+        "id": "terasi",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Didihkan air bersama kacang tanah kupas dan potongan jagung manis hingga mulai empuk.",
+      "Masukkan bumbu ulek bawang merah dan cabai ke dalam kuah.",
+      "Tambahkan potongan labu siam segar. Bumbui kuah dengan garam, micin (penyedap rasa), sedikit gula pasir, dan terasi bakar secukupnya, aduk rata dan koreksi rasa.",
+      "Masak hingga seluruh sayuran matang sempurna lalu sajikan."
+    ]
+  },
+  {
+    "id": "resep-tumis-pare-teri",
+    "nama": "Tumis Pare Hijau & Ikan Teri Anti Pahit",
+    "deskripsi": "Irisan pare hijau renyah yang diremas bersih lalu ditumis pedas bersama ikan teri goreng gurih.",
+    "porsi": "2 porsi",
+    "waktu": 20,
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/tumis-pare-teri.jpg",
+    "bahan": [
+      {
+        "id": "pare",
+        "jumlah": 1
+      },
+      {
+        "id": "ikan-teri",
+        "jumlah": 1
+      },
+      {
+        "id": "cabai",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "micin",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Belah pare, kerok bijinya dengan sendok, iris tipis lalu remas-remas di air bersih dan bilas tuntas agar pahitnya berkurang.",
+      "Goreng ikan teri terlebih dahulu hingga garing keemasan lalu sisihkan.",
+      "Tumis irisan bawang merah dan cabai rawit hingga harum, masukkan pare dan masak hingga layu renyah. Bumbui dengan garam, micin (penyedap rasa), dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan teri goreng sesaat sebelum diangkat, aduk rata dan sajikan."
+    ]
+  },
+  {
+    "id": "resep-siomay-tahu-pare",
+    "nama": "Siomay Kukus Tahu Pare Kentang Bumbu Kacang",
+    "deskripsi": "Olahan kukus ikan giling, tahu putih, pare, dan kentang empuk dengan saus kacang jeruk nipis.",
+    "porsi": "3 porsi",
+    "waktu": 35,
+    "waktuMasak": "35 menit",
+    "tingkatKesulitan": "Sedang",
+    "gambar": "/images/menu/siomay-ikan-komplit.jpg",
+    "bahan": [
+      {
+        "id": "ikan",
+        "jumlah": 1
+      },
+      {
+        "id": "tepung",
+        "jumlah": 1
+      },
+      {
+        "id": "tahu",
+        "jumlah": 1
+      },
+      {
+        "id": "pare",
+        "jumlah": 1
+      },
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "kacang-tanah",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "jeruk-nipis",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Haluskan daging ikan segar lalu campur dengan tepung hingga kalis, isikan sebagian ke tahu dan potongan pare.",
+      "Kukus adonan siomay bersama potongan kentang selama 25 menit hingga matang kenyal.",
+      "Haluskan kacang tanah matang dengan air hangat untuk membuat saus kacang. Bumbui dengan garam, kaldu bubuk, lada bubuk, dan sedikit gula pasir secukupnya agar gurih meresap sempurna.",
+      "Sajikan potongan siomay, tahu, pare, dan kentang dengan saus kacang, kecap manis, serta perasan jeruk nipis."
+    ]
+  },
+  {
+    "id": "resep-opor-ayam-kuning",
+    "nama": "Opor Ayam & Telur Kuah Santan Kunyit",
+    "deskripsi": "Ayam dan telur rebus yang dimasak perlahan dalam kuah santan kunyit yang harum gurih.",
+    "porsi": "3 porsi",
+    "waktu": 30,
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/opor-ayam-santan.jpg",
+    "bahan": [
+      {
+        "id": "ayam",
+        "jumlah": 1
+      },
+      {
+        "id": "telur",
+        "jumlah": 1
+      },
+      {
+        "id": "santan",
+        "jumlah": 1
+      },
+      {
+        "id": "kunyit",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Haluskan bawang merah dan kunyit bakar lalu tumis dengan sedikit minyak hingga harum.",
+      "Masukkan potongan ayam, aduk hingga ayam berubah warna lalu tambahkan air secukupnya.",
+      "Masukkan telur rebus kupas dan tuangkan santan kelapa sambil diaduk perlahan. Bumbui kuah dengan garam, kaldu bubuk, lada bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Masak dengan api kecil hingga ayam empuk dan bumbu santan kuning meresap."
+    ]
+  },
+  {
+    "id": "resep-semur-daging-kentang",
+    "nama": "Semur Daging Sapi & Kentang Kecap Manis",
+    "deskripsi": "Potongan daging sapi empuk dan kentang dalam kuah semur kecap manis pekat yang gurih manis.",
+    "porsi": "2-3 porsi",
+    "waktu": 35,
+    "waktuMasak": "35 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/semur-daging-kentang.jpg",
+    "bahan": [
+      {
+        "id": "daging-sapi",
+        "jumlah": 1
+      },
+      {
+        "id": "kentang",
+        "jumlah": 1
+      },
+      {
+        "id": "kecap-manis",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "lada-bubuk",
+        "jumlah": 1
+      },
+      {
+        "id": "gula-pasir",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Goreng potongan kentang setengah matang lalu sisihkan, dan iris tipis daging sapi melawan serat.",
+      "Tumis bumbu halus bawang merah hingga harum, masukkan daging sapi hingga berubah warna.",
+      "Tuang air dan kecap manis, masak dengan api kecil hingga daging empuk. Bumbui kuah dengan garam, kaldu bubuk, lada bubuk, dan sedikit gula pasir secukupnya, aduk rata dan koreksi rasa.",
+      "Masukkan kentang, masak hingga kuah semur menyusut kental lalu sajikan."
+    ]
+  },
+  {
+    "id": "resep-singkong-keju-merekah",
+    "nama": "Singkong Goreng Merekah Tabur Keju Parut",
+    "deskripsi": "Singkong empuk bumbu bawang putih yang digoreng garing merekah lalu diberi parutan keju gurih.",
+    "porsi": "2 porsi",
+    "waktu": 25,
+    "waktuMasak": "25 menit",
+    "tingkatKesulitan": "Mudah",
+    "gambar": "/images/menu/singkong-keju-lumer.jpg",
+    "bahan": [
+      {
+        "id": "singkong",
+        "jumlah": 1
+      },
+      {
+        "id": "keju",
+        "jumlah": 1
+      },
+      {
+        "id": "bawang-putih",
+        "jumlah": 1
+      },
+      {
+        "id": "minyak",
+        "jumlah": 1
+      },
+      {
+        "id": "garam",
+        "jumlah": 1
+      },
+      {
+        "id": "kaldu-bubuk",
+        "jumlah": 1
+      }
+    ],
+    "langkah": [
+      "Kukus atau rebus potongan singkong hingga empuk, lalu rendam segera ke dalam air dingin berbumbu bawang putih halus agar merekah.",
+      "Tiriskan singkong yang sudah merekah lalu goreng dalam minyak panas hingga garing keemasan.",
+      "Angkat dan tata di atas piring selagi panas. Taburi garam dan kaldu bubuk secukupnya selagi hangat agar makin gurih.",
+      "Taburi parutan keju cheddar melimpah di atasnya dan sajikan."
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "id": "nasi-ayam-geprek", "nama": "Nasi Ayam Geprek", "harga": 18000, "kalori": 650, "kategori": "makan-siang", "tempat": "Warung", "ikon": "🍗" },
+  { "id": "mie-ayam-bakso", "nama": "Mie Ayam Bakso", "harga": 15000, "kalori": 480, "kategori": "makan-siang", "tempat": "Warung", "ikon": "🍜" },
+  { "id": "soto-ayam", "nama": "Soto Ayam", "harga": 16000, "kalori": 420, "kategori": "makan-siang", "tempat": "Warung", "ikon": "🍲" },
+  { "id": "nasi-padang-rendang", "nama": "Nasi Rendang", "harga": 25000, "kalori": 780, "kategori": "makan-siang", "tempat": "Rumah Makan", "ikon": "🍛" },
+  { "id": "gado-gado", "nama": "Gado-gado", "harga": 14000, "kalori": 390, "kategori": "makan-siang", "tempat": "Warung", "ikon": "🥗" },
+  { "id": "nasi-goreng-spesial", "nama": "Nasi Goreng Spesial", "harga": 18000, "kalori": 620, "kategori": "makan-malam", "tempat": "Warung", "ikon": "🍳" },
+  { "id": "bubur-ayam", "nama": "Bubur Ayam", "harga": 12000, "kalori": 340, "kategori": "sarapan", "tempat": "Gerobak", "ikon": "🥣" },
+  { "id": "roti-bakar-coklat", "nama": "Roti Bakar Coklat", "harga": 12000, "kalori": 410, "kategori": "sarapan", "tempat": "Kafe", "ikon": "🍞" },
+  { "id": "es-teh-manis", "nama": "Es Teh Manis", "harga": 5000, "kalori": 90, "kategori": "minuman", "tempat": "Warung", "ikon": "🧋" },
+  { "id": "salad-buah", "nama": "Salad Buah Yogurt", "harga": 20000, "kalori": 210, "kategori": "cemilan", "tempat": "Kafe", "ikon": "🍓" },
+  { "id": "pempek", "nama": "Pempek Kapal Selam", "harga": 22000, "kalori": 540, "kategori": "makan-siang", "tempat": "Warung", "ikon": "🐟" },
+  { "id": "ayam-bakar", "nama": "Ayam Bakar Madu", "harga": 28000, "kalori": 590, "kategori": "makan-malam", "tempat": "Rumah Makan", "ikon": "🔥" }
+]
